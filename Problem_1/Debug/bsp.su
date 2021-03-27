@@ -1,0 +1,13 @@
+core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static
+core_cm0plus.h:848:22:__NVIC_SetPriority	24	static
+bsp.c:5:6:delay	16	static
+bsp.c:9:6:BSP_system_init	8	static,ignoring_inline_asm
+bsp.c:22:6:uart_tx	16	static
+bsp.c:30:9:uart_rx	8	static
+bsp.c:44:6:BSP_UART_init	16	static
+bsp.c:79:6:BSP_led_init	8	static
+bsp.c:94:6:BSP_led_set	8	static
+bsp.c:99:6:BSP_led_clear	8	static
+bsp.c:104:6:BSP_led_toggle	8	static
+bsp.c:110:6:BSP_button_init	8	static
+bsp.c:132:5:BSP_button_read	16	static
